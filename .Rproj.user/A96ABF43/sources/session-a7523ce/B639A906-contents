@@ -1,0 +1,7 @@
+.onLoad <- function(libname, pkgname)
+{
+
+  my_env <- new.env()
+  my_env$a <- 1
+
+}
